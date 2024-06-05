@@ -1,0 +1,10 @@
+{
+  "id": 51550215,
+  "created_at": "2024-06-05T11:21:34.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["vitefait", "BeninStats", "lewishounkpevi.r-universe.dev"]
+}
